@@ -772,7 +772,7 @@ span.item_price {
 }
 
 .product-sec1.product-sec2 {
-	background: url(../images/bg1.html)no-repeat 0px 0px;
+	/* background: url(../images/bg1.html)no-repeat 0px 0px; */
 	background-attachment: fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -828,7 +828,7 @@ button.toys-cart  {
 	padding:12px 0px
 }
 button.toys-cart:hover {
-	    background:#ffcb2d;
+	    background:#86784d;
 }
 /*-- single-page --*/
 .single-right-left h3 {

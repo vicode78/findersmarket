@@ -4,7 +4,7 @@ html,
 body {
     padding: 0;
     margin: 0;
-    background: greenyellow;
+    background: whitesmoke;
     letter-spacing: 1px;
 font-family: 'Sunflower', sans-serif;
 }
@@ -145,7 +145,7 @@ margin: 0px;
 .search-right input[type="search"] {
 	width:80%;
     color: #fff;
-    background-color: #e4e4e4;
+    background-color:white;
     outline: none !important;
     font-size: 14px;
 	margin-right: 0px !important;
@@ -429,7 +429,7 @@ background-size:40px;
 /*-- inner-banner --*/ 
 .inner_page-banner {
 text-align: center;
-background: url(../images/) no-repeat center;
+background: url(../images/cucumber2.jpg) no-repeat center;
 background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -637,7 +637,7 @@ font-size: 14px;
 /*--//flexisel--*/
 /*--//slider--*/
 /* --customer-review--*/
-.clients { background: url(../images/)no-repeat center;
+.clients { background: url(../images/cucumber1.jpg)no-repeat center;
     background-size: cover;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
